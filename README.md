@@ -1,4 +1,4 @@
-# nota.py
+# livro.py
 
 Um projeto em Python para registrar e gerenciar notas de alunos, permitindo organização e fácil acesso aos dados.
 
